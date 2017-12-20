@@ -1,10 +1,4 @@
 
-/*
-var add = require('doAdd');
-add(1,1, function(res) {
-    console.log(res);
-});
-*/
 
 var http = require('http');
 http.createServer(function(req, res) {
